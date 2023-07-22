@@ -1,6 +1,6 @@
 Material Lab
 
-Used to test material ideas or just for messing around
+Used to test materials or for messing around
 
 ---------------------------------------------------------
 
