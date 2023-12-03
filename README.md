@@ -1,7 +1,7 @@
 Material Lab
 
-Used to test materials or for messing around
+Used to test Materials or for messing around
 
 ---------------------------------------------------------
 
-Created With Unreal Engine 4.27
+Uses Unreal Engine 4.27
